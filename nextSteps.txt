@@ -1,0 +1,41 @@
+Ship:
+* health bar
+* stamina bar for movement
+* stamina bar for fire
+* movementAttack
+* eyeFrame after hit
+
+
+Enemy:
+
+* health bar
+- 3 levels
+- each level diff speed diff hp dif size dif color
+- chase mode color should be stroke not fill to make level color apear
+
+
+ScoringSystem:
+
+
+
+visualEffects:
+* Blinky eye
+- push smoke effect
+- aura Enemy effect
+- spawn enemy effect 
+- enemy death effect 
+- bullit hit effect
+- camera shake when player hit enemy 
+
+SoundEffects:
+
+
+
+UI:
+
+
+
+
+
+
+
